@@ -27,7 +27,7 @@
 
 const CONFIG = {
   // ── Recipient Info ────────────────────────────────────────────
-  name: "Irene",
+  name: "ashley",
   photo: "img/received_962041532826799.jpeg",       // Place your photo in the img/ folder
   music: "YouCut_20260601_074332450.mp4",      // Place your music in the music/ folder
 
@@ -55,7 +55,7 @@ const CONFIG = {
   sections: [
     {
       type: "greeting",
-      title: "Hi Sleigh",
+      title: "Hi",
       subtitle: "Gwapa kayka hehe!",
     },
     {
@@ -70,7 +70,7 @@ const CONFIG = {
     {
       type: "chatbox",
       message:
-        "happy birthday to you, lee! I wish you the best todayyyy, more birthdays to come, and more candles to blow. know that you'reee such a great person. I am so lucky to have met you in my life. thank you for being myyy guardian angel. I appreciate you so much! just know that I am always here for you, okay? you can always talk to me, rely on me, and more and more. I will always support you. I love youu!",
+        "happy birthday to you, lee! I wish you the best todayyyy, more birthdays to come, and more candles to blow. I love youu!",
       buttonText: "Send",
     },
     {
@@ -91,11 +91,11 @@ const CONFIG = {
     },
     {
       type: "stars",
-      count: 40,
+      count: 60,
     },
     {
       type: "balloons",
-      count: 25,
+      count: 35,
     },
     {
       type: "profile",
@@ -104,16 +104,22 @@ const CONFIG = {
     },
     {
       type: "fireworks",
-      count: 24,
+      count: 50,
+    },
+    {
+      type: "chatbox",
+      message:
+        "happy birthday to you, lee! I wish you the best todayyyy, more birthdays to come, and more candles to blow. know that you'reee such a great person. I am so lucky to have met you in my life. thank you for being myyy guardian angel. I appreciate you so much! just know that I am always here for you, okay? you can always talk to me, rely on me, and more and more. I will always support you. I love youu!",
+      buttonText: "Send",
     },
     {
       type: "confetti",
-      count: 9,
+      count: 20,
     },
     {
       type: "closing",
-      text: "the end! I loveee youuu!,",
-      replayText: "okay, now come back and tell me if you liked this. hehe!",
+      text: "okayy, now go back and tell me if you liked it 💜,",
+      replayText: "back",
     },
   ],
 };

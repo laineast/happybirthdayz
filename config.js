@@ -28,7 +28,7 @@
 const CONFIG = {
   // ── Recipient Info ────────────────────────────────────────────
   name: "Irene",
-  photo: "./img/irene.jpg",       // Place your photo in the img/ folder
+  photo: "img/received_962041532826799.jpeg",       // Place your photo in the img/ folder
   music: "./music/hbd.mpeg",      // Place your music in the music/ folder
 
   // ── Theme Colors ──────────────────────────────────────────────
@@ -55,8 +55,8 @@ const CONFIG = {
   sections: [
     {
       type: "greeting",
-      title: "Hi",
-      subtitle: "I really like your name btw!",
+      title: "Hi Sleigh",
+      subtitle: "Gwapa kayka hehe!",
     },
     {
       type: "countdown",
@@ -65,29 +65,29 @@ const CONFIG = {
     },
     {
       type: "announcement",
-      text: "It's your birthday!! :D",
+      text: "It's your birthday!! :Dxdxd",
     },
     {
       type: "chatbox",
       message:
-        "Happy birthday to youu!! Wishing you a wonderful year ahead filled with joy, love, and endless happiness!",
+        "happy birthday to you, lee! I wish you the best todayyyy, more birthdays to come, and more candles to blow. know that you'reee such a great person. I am so lucky to have met you in my life. thank you for being myyy guardian angel. I appreciate you so much! just know that I am always here for you, okay? you can always talk to me, rely on me, and more and more. I will always support you. I love youu!",
       buttonText: "Send",
     },
     {
       type: "ideas",
       lines: [
-        "That's what I was going to do.",
-        "But then I stopped.",
+        "that's what I was about to do.",
+        "but then I stopped.",
         "I realised, I wanted to do something <strong>special</strong>.",
-        "Because,",
-        "You are Special <span>:)</span>",
+        "because,",
+        "you are special <span>:)</span>",
       ],
       bigLetters: "SO",
     },
     {
       type: "quote",
-      text: "The more you praise and celebrate your life, the more there is in life to celebrate.",
-      author: "Oprah Winfrey",
+      text: "The LORD bless thee, and keep thee; The LORD make his face shine upon thee, and be gracious unto thee: The LORD lift up his countenance upon thee, and give thee peace.",
+      author: "Numbers 6:24-26 (KJV)",
     },
     {
       type: "stars",
@@ -99,8 +99,8 @@ const CONFIG = {
     },
     {
       type: "profile",
-      wishTitle: "Happy Birthday!",
-      wishText: "May the js.prototypes always be with you! ;)",
+      wishTitle: "happy birthday!",
+      wishText: "happy birthday love! cheers to our ten years of friendship. enjoy your day, ha? daghan pa ta'g dreams nga i-achieve in the future, so we should never give up. God is there for us, guiding us, loving us, and protecting us. I pray na you'll receive what your heart truly desires. I pray na whatever crazy thing may come saimo way, you'll find courage in every bit of it. for me, nice kayka nga inspiration sa life, and I want you to know na you'll never be alone and you're always loved. be strong shley, love kaayo tika! once again, happy birthday! lovelots mylove!:)",
     },
     {
       type: "fireworks",
@@ -112,8 +112,8 @@ const CONFIG = {
     },
     {
       type: "closing",
-      text: "Okay, now come back and tell me if you liked it.",
-      replayText: "Or click, if you want to watch it again.",
+      text: "the end! I loveee youuu!,",
+      replayText: "okay, now come back and tell me if you liked this. hehe!",
     },
   ],
 };

@@ -104,7 +104,7 @@ const CONFIG = {
     },
     {
       type: "fireworks",
-      count: 90,
+      count: 120,
     },
     {
       type: "chatbox",

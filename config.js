@@ -27,7 +27,7 @@
 
 const CONFIG = {
   // ── Recipient Info ────────────────────────────────────────────
-  name: "ashley",
+  name: "Ashley!",
   photo: "img/received_962041532826799.jpeg",       // Place your photo in the img/ folder
   music: "YouCut_20260601_074332450.mp4",      // Place your music in the music/ folder
 
@@ -65,7 +65,7 @@ const CONFIG = {
     },
     {
       type: "announcement",
-      text: "It's your birthday!! :Dxdxd",
+      text: "It's your birthday!! :D",
     },
     {
       type: "chatbox",
@@ -91,11 +91,15 @@ const CONFIG = {
     },
     {
       type: "stars",
-      count: 60,
+      count: 80,
     },
     {
       type: "balloons",
-      count: 35,
+      count: 25,
+    },
+    {
+      type: "confetti",
+      count: 40,
     },
     {
       type: "profile",
@@ -104,7 +108,7 @@ const CONFIG = {
     },
     {
       type: "fireworks",
-      count: 50,
+      count: 35,
     },
     {
       type: "chatbox",
@@ -114,7 +118,7 @@ const CONFIG = {
     },
     {
       type: "confetti",
-      count: 20,
+      count: 40,
     },
     {
       type: "closing",

@@ -29,7 +29,7 @@ const CONFIG = {
   // ── Recipient Info ────────────────────────────────────────────
   name: "Ashley!",
   photo: "img/received_962041532826799.jpeg",       // Place your photo in the img/ folder
-  music: "YouCut_20260601_074332450.mp4",      // Place your music in the music/ folder
+  music: "YouCut_20260601_074332450 (1).mp3",      // Place your music in the music/ folder
 
   // ── Theme Colors ──────────────────────────────────────────────
   // A toggle button lets the viewer switch between dark & light mode.

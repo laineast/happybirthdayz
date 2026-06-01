@@ -98,13 +98,17 @@ const CONFIG = {
       count: 25,
     },
     {
+      type: "confetti",
+      count: 6,
+    },
+    {
       type: "profile",
       wishTitle: "happy birthday!",
       wishText: "happy birthday love! cheers to our ten years of friendship. enjoy your day, ha? daghan pa ta'g dreams nga i-achieve in the future, so we should never give up. God is there for us, guiding us, loving us, and protecting us. I pray na you'll receive what your heart truly desires. <p> I pray na whatever crazy thing nga mo come saimo way, you'll find courage in every bit of it. for me, nice kayka nga inspiration sa life, and I want you to know na you'll never be alone and you're always loved. </p> <p> be strong shley, love kaayo tika! once again, happy birthday! lovelots mylove!:)</p>",
     },
     {
       type: "fireworks",
-      count: 120,
+      count: 150,
     },
     {
       type: "chatbox",
